@@ -1,5 +1,7 @@
 # 增长思维判断顾问 · growth-thinking-advisor
 
+![Growth Thinking Advisor · Knock〃](banner.png)
+
 > 把梁宁《增长思维30讲》炼成一个能**帮你做判断**的 Claude Skill——不是复述课程，而是把它的框架套到你眼前这件事上，给出可执行的结论。并且，框架已经**按 AI 时代内化**：默认用 AI 原生的方式理解每个模型，而不是在结尾贴一句"AI 时代注意"。
 
 ## 这是什么
